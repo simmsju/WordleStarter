@@ -2,7 +2,6 @@
  * File: Wordle.java
  * -----------------
  * This module is the starter file for the Wordle assignment.
- * BE SURE TO UPDATE THIS COMMENT WHEN YOU COMPLETE THE CODE.
  */
 
 public class Wordle {
