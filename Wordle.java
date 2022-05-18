@@ -17,7 +17,10 @@ public class Wordle {
         gw = new WordleGWindow();
         gw.addEnterListener((s) -> enterAction(s));
 
-        //Uncomment to see chosen word
+        //test custom words
+        //word = "TAPES";
+
+        //print chosen word
         //System.out.println(word);
     }
 
