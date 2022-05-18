@@ -16,7 +16,9 @@ public class Wordle {
         letters = new String[word.length()];
         gw = new WordleGWindow();
         gw.addEnterListener((s) -> enterAction(s));
-        System.out.println(word);
+
+        //Uncomment to see chosen word
+        //System.out.println(word);
     }
 
 /*
